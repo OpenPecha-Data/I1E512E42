@@ -1,5 +1,7 @@
 id: P007845
 initial_creation_type: ocr
+created_at: 21/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W22111
   title: གསུང་འབུམ། མཁས་གྲུབ་རྗེ་།（བཀྲས་ལྷུན་པར་མ། ལྡི་ལིར་བསྐྱར་པར་བརྒྱབ་པ།）
@@ -77,10 +79,3 @@ source_metadata:
       volume_number: 12
       total_pages: 690
       base_file: v012.txt
-ebook_metadata:
-  title: གསུང་འབུམ། མཁས་གྲུབ་རྗེ་།（བཀྲས་ལྷུན་པར་མ། ལྡི་ལིར་བསྐྱར་པར་བརྒྱབ་པ།）
-  author: ''
-  sku: P007845
-  cover: cover.jpg
-  layers:
-  - pagination
